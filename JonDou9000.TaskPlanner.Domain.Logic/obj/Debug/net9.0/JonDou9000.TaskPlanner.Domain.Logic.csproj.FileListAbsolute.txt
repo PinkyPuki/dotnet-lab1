@@ -1,0 +1,16 @@
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.deps.json
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.dll
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.pdb
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.sourcelink.json
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou90.543666EC.Up2Date
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.dll
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\refint\JonDou9000.TaskPlanner.Domain.Logic.dll
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Logic.pdb
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Logic\obj\Debug\net9.0\ref\JonDou9000.TaskPlanner.Domain.Logic.dll

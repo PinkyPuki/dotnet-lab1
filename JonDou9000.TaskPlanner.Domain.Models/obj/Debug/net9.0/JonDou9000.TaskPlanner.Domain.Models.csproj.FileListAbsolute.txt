@@ -1,0 +1,12 @@
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.deps.json
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.sourcelink.json
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\refint\JonDou9000.TaskPlanner.Domain.Models.dll
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\JonDou9000.TaskPlanner.Domain.Models.pdb
+C:\Users\Микола\MyDotNetApp\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net9.0\ref\JonDou9000.TaskPlanner.Domain.Models.dll

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.ConsoleApp", "JonDou9000.TaskPlanner.ConsoleApp\JonDou9000.TaskPlanner.ConsoleApp.csproj", "{82B4DBD4-3A6C-4D45-9572-4A6B09710114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.Domain.Models", "JonDou9000.TaskPlanner.Domain.Models\JonDou9000.TaskPlanner.Domain.Models.csproj", "{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonDou9000.TaskPlanner.Domain.Logic", "JonDou9000.TaskPlanner.Domain.Logic\JonDou9000.TaskPlanner.Domain.Logic.csproj", "{D5963C84-4BD6-4BE0-9ACD-5588D0413446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Debug|x64.Build.0 = Debug|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Debug|x86.Build.0 = Debug|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Release|x64.ActiveCfg = Release|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Release|x64.Build.0 = Release|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Release|x86.ActiveCfg = Release|Any CPU
+		{82B4DBD4-3A6C-4D45-9572-4A6B09710114}.Release|x86.Build.0 = Release|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Debug|x64.Build.0 = Debug|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Debug|x86.Build.0 = Debug|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Release|x64.ActiveCfg = Release|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Release|x64.Build.0 = Release|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Release|x86.ActiveCfg = Release|Any CPU
+		{FBB8A019-5FF8-4EA2-A4EB-78CF83D8FD9F}.Release|x86.Build.0 = Release|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Debug|x64.Build.0 = Debug|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Debug|x86.Build.0 = Debug|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Release|x64.ActiveCfg = Release|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Release|x64.Build.0 = Release|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Release|x86.ActiveCfg = Release|Any CPU
+		{D5963C84-4BD6-4BE0-9ACD-5588D0413446}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
